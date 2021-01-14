@@ -1,3 +1,3 @@
 # First project
 
-My first tutorial
+My 1st tutorial
